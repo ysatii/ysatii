@@ -72,7 +72,7 @@ https://github.com/ysatii/devops-diplom-yandexcloud
 
 ## ⭐ DevOps Application
 
-https://github.com/ysatii/devops-diplom-app-nginx
+https://github.com/ysatii/devops-diplom-app-nginx  
 
 Приложение для дипломного проекта.
 
@@ -136,7 +136,9 @@ https://github.com/ysatii/ansible-hw5
 
 
 ## ⭐ Репликация и масштабирование MYSQL 
+
 https://github.com/ysatii/DB-HW6
+
 Использованы:
 - режим репликации master-slave.
 - режим репликации master-master
@@ -145,7 +147,9 @@ https://github.com/ysatii/DB-HW6
 
 
 ## ⭐ Raspberry Pi Status Monitor (TFT)
+
 https://github.com/ysatii/raspberry_pi_status_monitor 
+
 Системный монитор для Raspberry Pi с выводом основных параметров на TFT-дисплей (SPI).  
 Приложение рассчитано на постоянную работу и отображает состояние системы в реальном времени.  
 - дисплей ST7735 128*128 точек, цветной tft  
