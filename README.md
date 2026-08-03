@@ -26,6 +26,7 @@
 - MikroTik
 - System Design
 - Domain-Driven Design (DDD)
+- Raspberry
 
 ---
 
