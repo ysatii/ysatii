@@ -160,9 +160,9 @@ https://github.com/ysatii/raspberry_pi_status_monitor
 
 # 📚 Другие направления
 
-## PostgreSQL
+## PostgreSQL, MYSQL
 
-Практические проекты по PostgreSQL:
+Практические проекты:
 
 https://github.com/ysatii?tab=repositories&q=DB-HW
 
