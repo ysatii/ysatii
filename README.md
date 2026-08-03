@@ -136,7 +136,11 @@ https://github.com/ysatii/ansible-hw5
 
 ## ⭐ Репликация и масштабирование MYSQL 
 https://github.com/ysatii/DB-HW6
+Использованы:
+- режим репликации master-slave.
+- режим репликации master-master
 
+---
 
 
 # 📚 Другие направления
