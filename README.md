@@ -133,6 +133,12 @@ https://github.com/ysatii/ansible-hw5
 
 ---
 
+
+## ⭐ Репликация и масштабирование MYSQL 
+https://github.com/ysatii/DB-HW6
+
+
+
 # 📚 Другие направления
 
 ## PostgreSQL
