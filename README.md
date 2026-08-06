@@ -69,18 +69,19 @@ https://github.com/ysatii/devops-diplom-yandexcloud
 
 ---
 
-## ⭐ DevOps Application
+## ⭐ Курсовой проект по блоку "Системное администрирование"
 
-https://github.com/ysatii/devops-diplom-app-nginx  
+https://github.com/ysatii/Курсовой проект по блоку "Системное администрирование" 
 
-Приложение для дипломного проекта.
+Курсовой проект по блоку "Системное администрирование"
 
 Включает:
 
-- Docker
-- GitLab CI/CD
-- Автоматическую публикацию контейнера
-- Rolling Update Kubernetes
+- Сайт
+- Мониторинг
+- Логи
+- Сеть
+- Резервное копирование
 
 ---
 
