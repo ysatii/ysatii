@@ -172,6 +172,19 @@ https://github.com/ysatii/lighthouse-role
   
 ---
 
+## ⭐  monitoring-hw4
+
+https://github.com/ysatii/monitoring-hw4
+
+«Система сбора логов Elastic Stack» 
+Возможности
+- elasticsearch (hot и warm ноды);
+- logstash;
+- kibana;
+- filebeat.
+  
+---
+
 
 # 📚 Другие направления
 
