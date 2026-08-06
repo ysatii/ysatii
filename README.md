@@ -158,6 +158,21 @@ https://github.com/ysatii/raspberry_pi_status_monitor
   
 ---
 
+## ⭐  lighthouse-role
+
+https://github.com/ysatii/lighthouse-role
+
+Эта роль устанавливает и настраивает Lighthouse — веб-интерфейс для визуализации запросов к ClickHouse.
+Возможности:
+- Устанавливает Nginx и необходимые пакеты
+- Загружает Lighthouse с GitHub
+- Распаковывает и размещает файлы в каталоге Nginx
+- Создаёт конфигурацию Nginx для доступа к Lighthouse
+- Запускает и включает службу nginx
+  
+---
+
+
 # 📚 Другие направления
 
 ## PostgreSQL, MYSQL
