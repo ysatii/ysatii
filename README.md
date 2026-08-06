@@ -177,7 +177,7 @@ https://github.com/ysatii/lighthouse-role
 https://github.com/ysatii/monitoring-hw4
 
 «Система сбора логов Elastic Stack» 
-Возможности
+Возможности, с помощью Docker
 - elasticsearch (hot и warm ноды);
 - logstash;
 - kibana;
@@ -185,6 +185,29 @@ https://github.com/ysatii/monitoring-hw4
   
 ---
 
+
+## ⭐  my_elk
+
+https://github.com/ysatii/my_elk
+
+стэк ELK сбор и анализ логов
+Возможности
+- logstash
+- ngnix
+  
+---
+
+## ⭐  terraform_hw3
+
+https://github.com/ysatii/terraform_hw3
+
+Управляющие конструкции в коде Terraform
+работа ведется с использованием Яндекс облака
+- работа с группами безопасности
+- работа с шаблонизаторами
+- работа с переменными Terraform
+  
+---
 
 # 📚 Другие направления
 
