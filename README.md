@@ -23,7 +23,6 @@
 - Grafana
 - KVM
 - WireGuard
-- MikroTik
 - System Design
 - Domain-Driven Design (DDD)
 - Raspberry
