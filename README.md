@@ -47,11 +47,11 @@
 
 # ⭐ Лучшие проекты
 
-## ⭐ Kubernetes Platform in Yandex Cloud
+## ⭐ Полный дипломный проект DevOps.
 
 https://github.com/ysatii/devops-diplom-yandexcloud
 
-Полный дипломный проект DevOps.
+
 
 Что реализовано:
 
@@ -71,7 +71,7 @@ https://github.com/ysatii/devops-diplom-yandexcloud
 
 ## ⭐ Курсовой проект по блоку "Системное администрирование"
 
-https://github.com/ysatii/Курсовой проект по блоку "Системное администрирование" 
+https://github.com/ysatii/Course_project_on_the_block_System_Administration 
 
 Курсовой проект по блоку "Системное администрирование"
 
@@ -85,11 +85,11 @@ https://github.com/ysatii/Курсовой проект по блоку "Сис�
 
 ---
 
-## ⭐ High Availability Infrastructure
+## ⭐ Построение отказоустойчивой инфраструктуры.
 
 https://github.com/ysatii/fault_tolerance_cloud
 
-Построение отказоустойчивой инфраструктуры.
+
 
 Использованы:
 
@@ -101,11 +101,11 @@ https://github.com/ysatii/fault_tolerance_cloud
 
 ---
 
-## ⭐ ClickHouse + Vector + LightHouse
+## ⭐ Автоматизированное развёртывание аналитической платформы. ClickHouse + Vector + LightHouse
 
 https://github.com/ysatii/ansible-hw4
 
-Автоматизированное развёртывание аналитической платформы.
+
 
 Стек:
 
@@ -118,11 +118,10 @@ https://github.com/ysatii/ansible-hw4
 
 ---
 
-## ⭐ Testing Ansible Roles
-
+## ⭐ Автоматическое тестирование ролей ansible.
 https://github.com/ysatii/ansible-hw5
 
-Автоматическое тестирование ролей ansible.
+
 
 Использованы:
 
@@ -146,7 +145,7 @@ https://github.com/ysatii/DB-HW6
 ---
 
 
-## ⭐ Raspberry Pi Status Monitor (TFT)
+## ⭐ Raspberry Pi Системный монитор (TFT)
 
 https://github.com/ysatii/raspberry_pi_status_monitor 
 
@@ -159,7 +158,7 @@ https://github.com/ysatii/raspberry_pi_status_monitor
   
 ---
 
-## ⭐  lighthouse-role
+## ⭐  lighthouse-role ansible роль
 
 https://github.com/ysatii/lighthouse-role
 
@@ -173,11 +172,10 @@ https://github.com/ysatii/lighthouse-role
   
 ---
 
-## ⭐  monitoring-hw4
+## ⭐  «Система сбора логов Elastic Stack» 
 
 https://github.com/ysatii/monitoring-hw4
 
-«Система сбора логов Elastic Stack» 
 Возможности, с помощью Docker
 - elasticsearch (hot и warm ноды);
 - logstash;
@@ -187,22 +185,21 @@ https://github.com/ysatii/monitoring-hw4
 ---
 
 
-## ⭐  my_elk
+## ⭐  стэк ELK сбор и анализ логов
 
 https://github.com/ysatii/my_elk
 
-стэк ELK сбор и анализ логов
+
 Возможности
 - logstash
 - ngnix
   
 ---
 
-## ⭐  terraform_hw3
+## ⭐  Управляющие конструкции в коде Terraform
 
 https://github.com/ysatii/terraform_hw3
 
-Управляющие конструкции в коде Terraform
 работа ведется с использованием Яндекс облака
 - работа с группами безопасности
 - работа с шаблонизаторами
