@@ -317,7 +317,7 @@ https://github.com/ysatii?tab=stars
   <img src="https://cdn.simpleicons.org/telegram" width="32" height="32" alt="Telegram">
 </a>
 отвечаю примерно через 12-15 часов<br>
-&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/yurii-melnik-s/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
        width="32"
