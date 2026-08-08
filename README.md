@@ -313,7 +313,17 @@ https://github.com/ysatii?tab=stars
 
 # 📫 Контакты
 
-https://www.linkedin.com/in/yurii-melnik-s/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BLtUrkNtbQUqllF%2Fal4ci5Q%3D%3D
+[linkedin.com](https://github.com/user/repository](https://www.linkedin.com/in/yurii-melnik-s/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BLtUrkNtbQUqllF%2Fal4ci5Q%3D%3D))
+
+
+
+<a href="https://t.me/ysatii_polosatii">
+  <img src="https://cdn.simpleicons.org/telegram" width="32" height="32" alt="Telegram">
+</a>
+
+<a href="https://www.linkedin.com/in/USERNAME/">
+  <img src="https://cdn.simpleicons.org/linkedin" width="32" height="32" alt="LinkedIn">
+</a>
 
 ---
 
