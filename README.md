@@ -313,9 +313,7 @@ https://github.com/ysatii?tab=stars
 
 # 📫 Контакты
 
-GitHub
-
-https://github.com/ysatii
+https://www.linkedin.com/in/yurii-melnik-s/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BLtUrkNtbQUqllF%2Fal4ci5Q%3D%3D
 
 ---
 
